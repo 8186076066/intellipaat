@@ -1,0 +1,5 @@
+git add Readme.txt
+
+
+git config --global user.name "Mohammed sohail ahmed"
+git config --global user.email "shaansohail58@gmail.com
